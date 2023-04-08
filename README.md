@@ -1,2 +1,6 @@
 # Documentary
-This will be a guide for my journey and yours. 
+
+Please read the DAY ZERO file to understand 
+
+
+Thank You. Keep Working guys
